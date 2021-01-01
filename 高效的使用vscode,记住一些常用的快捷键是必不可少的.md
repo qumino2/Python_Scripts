@@ -23,7 +23,7 @@ Ctrl+P 快速打开最近打开的文件
 
 Ctrl+Shift+N 打开新的编辑器窗口
 
-==Ctrl+Shift+W== 关闭编辑器
+Ctrl+Shift+W 关闭编辑器
 
 Home 光标跳转到行头
 
